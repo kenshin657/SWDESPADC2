@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/account.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/SongDirector.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/SongBuilder.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/controller/buildSong.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/nbproject/build-impl.xml</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/Song.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/StandardPlaylistBuild.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/PlaylistBuilder.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/controller/buildPlaylist.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/PlaylistDirector.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/controller/AllSongPlaylist.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/DC2.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/model/PlayerBuild.java</file>
+            <file>file:/D:/college/swedspa/dc2/acutaldc/DC2/src/dc2/controller/createFavorites.java</file>
+        </group>
+    </open-files>
+</project-private>
